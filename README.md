@@ -1,4 +1,4 @@
-# Naam Proefopdracht
+# Hex Sweeper
 *Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
 De opdracht was om een hexagon grid te maken die je in runtime kan aan maken met een inputfield in unity.
@@ -29,8 +29,8 @@ ik had 1.5 week om deze opdracht te doen.
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | ziek | ziek | ziek | ziek | de hexagon mesh maken |
-|week 2 | planning maken en onderzoek naar mesh collider | mesh klikbaar maken | minesweeper in het project bouwen | inleveren |
+|week 1 | Planning maken en onderzoek doen met welke engine ik een (hexagon) mesh kan maken. | Onderzoeken hoe ik een mesh kan maken | leerdoelen bedenken | de hexagon mesh maken | kijken of ik nog iets kan toevoegen, planning daarvoor maken en onderzoek naar mesh collider |
+|week 2 | mesh klikbaar maken | minesweeper in het project bouwen | inleveren |
 
 ## Bronnen
 Deze bronnen heb ik gebruikt.
