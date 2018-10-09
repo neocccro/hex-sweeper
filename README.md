@@ -5,7 +5,6 @@ De opdracht was om een hexagon grid te maken die je in runtime kan aan maken met
 Ik heb dat gedaan en daarna mijneveger er van gemaakt.
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
 - [Awesome Algoritme](link)
 - [Specifieke Mechanic](link)
